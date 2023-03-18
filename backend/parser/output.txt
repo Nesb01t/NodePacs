@@ -1,0 +1,145 @@
+x00080005: ISO_IR 100 || vr:CS || length:10
+x00080008: ORIGINAL\PRIMARY\DIFFUSION\NONE\ND\NORM\MOSAIC || vr:CS || length:46
+x00080012: 20100412 || vr:DA || length:8
+x00080013: 204652.493000 || vr:TM || length:14
+x00080016: 1.2.840.10008.5.1.4.1.1.4 || vr:UI || length:26
+x00080018: 1.3.12.2.1107.5.2.32.35162.2010041220445945743307236 || vr:UI || length:52
+x00080020: 20100412 || vr:DA || length:8
+x00080021: 20100412 || vr:DA || length:8
+x00080022: 20100412 || vr:DA || length:8
+x00080023: 20100412 || vr:DA || length:8
+x00080030: 200507.063000 || vr:TM || length:14
+x00080031: 204652.477000 || vr:TM || length:14
+x00080032: 204453.425000 || vr:TM || length:14
+x00080033: 204652.493000 || vr:TM || length:14
+x00080050: undefined || vr:SH || length:0
+x00080060: MR || vr:CS || length:2
+x00080070: SIEMENS || vr:LO || length:8
+x00080080: Martinos Center Bay 3 || vr:LO || length:22
+x00080081: MGH 149,Charlestown,Charlestown,US,02129 || vr:ST || length:40
+x00080090: makris || vr:PN || length:6
+x00081010: BAY3OC || vr:SH || length:6
+x00081030: INVESTIGATORS^Makris || vr:LO || length:20
+x0008103e: DTI || vr:LO || length:4
+x00081050: makris || vr:PN || length:6
+x00081070: makris || vr:PN || length:6
+x00081090: TrioTim || vr:LO || length:8
+x00081140: þÿ || vr:SQ || length:306
+x00100010: KENTRON 111.2 || vr:PN || length:14
+x00100020: 0 || vr:LO || length:2
+x00100030: 19860101 || vr:DA || length:8
+x00100040: F || vr:CS || length:2
+x00101010: 024Y || vr:AS || length:4
+x00101030: 58.0598307456 || vr:DS || length:14
+x00180020: EP || vr:CS || length:2
+x00180021: SK\SP || vr:CS || length:6
+x00180022: SAT1\FS || vr:CS || length:8
+x00180023: 2D || vr:CS || length:2
+x00180024: ep_b0#1 || vr:SH || length:8
+x00180025: N || vr:CS || length:2
+x00180050: 3 || vr:DS || length:2
+x00180080: 5710 || vr:DS || length:4
+x00180081: 73 || vr:DS || length:2
+x00180083: 1 || vr:DS || length:2
+x00180084: 123.25047 || vr:DS || length:10
+x00180085: 1H || vr:SH || length:2
+x00180086: 1 || vr:IS || length:2
+x00180087: 3 || vr:DS || length:2
+x00180088: 3 || vr:DS || length:2
+x00180089: 64 || vr:IS || length:2
+x00180091: 1 || vr:IS || length:2
+x00180093: 100 || vr:DS || length:4
+x00180094: 100 || vr:DS || length:4
+x00180095: 2367 || vr:DS || length:4
+x00181000: 35162 || vr:LO || length:6
+x00181020: syngo MR B17 || vr:LO || length:12
+x00181030: DTI || vr:LO || length:4
+x00181251: Body || vr:SH || length:4
+x00181310: @ || vr:US || length:8
+x00181312: COL || vr:CS || length:4
+x00181314: 90 || vr:DS || length:2
+x00181315: N || vr:CS || length:2
+x00181316: 0.29921871805819 || vr:DS || length:16
+x00181318: 0 || vr:DS || length:2
+x00185100: HFS || vr:CS || length:4
+x00190010: SIEMENS MR HEADER || vr:LO || length:18
+x00191008: IMAGE NUM 4 || vr:CS || length:12
+x00191009: 1.0 || vr:LO || length:4
+x0019100a: 8 || vr:US || length:2
+x0019100b: 15 || vr:DS || length:2
+x0019100c: 0 || vr:IS || length:2
+x0019100d: DIRECTIONAL || vr:CS || length:12
+x0019100f: Fast || vr:SH || length:4
+x00191011: No || vr:SH || length:2
+x00191012:  || vr:SL || length:12
+x00191013:  || vr:SL || length:12
+x00191014: 0\0\0 || vr:IS || length:6
+x00191015: ÀÀ} ýuÿVÀ || vr:FD || length:24
+x00191016: 2.8675 || vr:DS || length:6
+x00191017: 1 || vr:DS || length:2
+x00191018: 3300 || vr:IS || length:4
+x00191028: 33333£N@ || vr:FD || length:8
+x00191029: ªÿÿÿa¦@ || vr:FD || length:448
+x0020000d: 1.3.12.2.1107.5.2.32.35162.30000010040517354286900000127 || vr:UI || length:56
+x0020000e: 1.3.12.2.1107.5.2.32.35162.2010041220443049667806816.0.0.0 || vr:UI || length:58
+x00200010: 1 || vr:SH || length:2
+x00200011: 25 || vr:IS || length:2
+x00200012: 1 || vr:IS || length:2
+x00200013: 1 || vr:IS || length:2
+x00200032: -770.9524512291\-91.991523742676\768 || vr:DS || length:36
+x00200037: 1\0\0\0\0\-1 || vr:DS || length:12
+x00200052: 1.3.12.2.1107.5.2.32.35162.1.20100412200507313.0.0.0 || vr:UI || length:52
+x00201040: undefined || vr:LO || length:0
+x00201041: -91.991523742676 || vr:DS || length:16
+x00280002:  || vr:US || length:2
+x00280004: MONOCHROME2 || vr:CS || length:12
+x00280010:  || vr:US || length:2
+x00280011:  || vr:US || length:2
+x00280030: 3\3 || vr:DS || length:4
+x00280100:  || vr:US || length:2
+x00280101:  || vr:US || length:2
+x00280102:  || vr:US || length:2
+x00280103:  || vr:US || length:2
+x00280106:  || vr:US || length:2
+x00280107: È || vr:US || length:2
+x00281050: 444 || vr:DS || length:4
+x00281051: 960 || vr:DS || length:4
+x00281055: Algo1 || vr:LO || length:6
+x00290010: SIEMENS CSA HEADER || vr:LO || length:18
+x00290011: SIEMENS MEDCOM HEADER2 || vr:LO || length:22
+x00291008: IMAGE NUM 4 || vr:CS || length:12
+x00291009: 20100412 || vr:LO || length:8
+x00291010: SV10S || vr:OB || length:11876
+x00291018: MR || vr:CS || length:2
+x00291019: 20100412 || vr:LO || length:8
+x00291020: SV10A || vr:OB || length:92820
+x00291160: com || vr:LO || length:4
+x00321032: makris || vr:PN || length:6
+x00321060: INVESTIGATORS Makris || vr:LO || length:20
+x00400244: 20100412 || vr:DA || length:8
+x00400245: 200507.110000 || vr:TM || length:14
+x00400253: MR20100412200507 || vr:SH || length:16
+x00400254: INVESTIGATORS^Makris || vr:LO || length:20
+x00510010: SIEMENS MR HEADER || vr:LO || length:18
+x00511008: IMAGE NUM 4 || vr:CS || length:12
+x00511009: 1.0 || vr:LO || length:4
+x0051100a: TA 00.01 || vr:LO || length:8
+x0051100b: 64*64s || vr:LO || length:6
+x0051100c: FoV 1536*1536 || vr:LO || length:14
+x0051100e: Cor || vr:LO || length:4
+x0051100f: C:HEA;HEP || vr:LO || length:10
+x00511011: p2 || vr:LO || length:2
+x00511012: TP 0 || vr:SH || length:4
+x00511013: +LPH || vr:SH || length:4
+x00511015: R || vr:SH || length:2
+x00511016: p2 DIFFUSION/NONE/ND/NORM || vr:LO || length:26
+x00511017: SL 3.0 || vr:SH || length:6
+x00511019: A1/SAT1/FS || vr:LO || length:10
+x7fe00010:  || vr:OW || length:524288
+x00020000: Ä || vr:UL || length:4
+x00020001:  || vr:OB || length:2
+x00020002: 1.2.840.10008.5.1.4.1.1.4 || vr:UI || length:26
+x00020003: 1.3.12.2.1107.5.2.32.35162.2010041220445945743307236 || vr:UI || length:52
+x00020010: 1.2.840.10008.1.2.1 || vr:UI || length:20
+x00020012: 1.2.276.0.7230010.3.0.3.5.4 || vr:UI || length:28
+x00020013: OFFIS_DCMTK_354 || vr:SH || length:16
