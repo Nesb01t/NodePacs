@@ -15,13 +15,13 @@
 
 /* BKGICON 图标设置 */
 .BkgIcon-Logo {
-  margin-top: 25vmin;
-  margin-left: auto;
   height: 50vmin;
-  pointer-events: none;
 }
 
 .BkgIcon {
+  margin-top: 25vmin;
+  margin-left: auto;
+  pointer-events: none;
   position: absolute;
   width: 100%;
 }
