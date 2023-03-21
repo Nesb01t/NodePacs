@@ -1,0 +1,27 @@
+/* SPIN 动画效果 */
+@keyframes BkgIcon-Logo {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .BkgIcon-Logo {
+    animation: BkgIcon-Logo infinite 20s linear;
+  }
+}
+
+/* BKGICON 图标设置 */
+.BkgIcon-Logo {
+  margin-top: 25vmin;
+  margin-left: auto;
+  height: 50vmin;
+  pointer-events: none;
+}
+
+.BkgIcon {
+  position: absolute;
+  width: 100%;
+}
