@@ -8,7 +8,7 @@ function App() {
 
       <BkgIcon></BkgIcon>
       Learn React
-      <img className="Background" src={background} alt="bkg"></img>
+      <img className="background" src={background} alt="bkg"></img>
     </div>
   );
 }
