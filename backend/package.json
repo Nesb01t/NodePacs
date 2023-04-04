@@ -1,15 +1,5 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "canvas": "^2.11.0",
-    "dicom-parser": "^1.8.21"
+    "koa": "^2.14.1"
   }
 }
