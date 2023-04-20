@@ -4,14 +4,12 @@ import BkgIcon from './component/BkgIcon';
 
 function App() {
   return (
-    <div className="App">
-
+    <div className='App'>
       <BkgIcon></BkgIcon>
       Learn React
-      <img className="background" src={background} alt="bkg"></img>
+      <img className='background' src={background} alt='bkg'></img>
     </div>
   );
 }
-
 
 export default App;
