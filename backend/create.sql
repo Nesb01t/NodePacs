@@ -1,5 +1,4 @@
 CREATE SCHEMA `dicommon`;
-
 CREATE TABLE data (
     id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
     acquisition_date VARCHAR(255),
