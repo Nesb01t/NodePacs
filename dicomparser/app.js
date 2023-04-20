@@ -8,13 +8,14 @@ var parser = require('./api/parser.js');
  * 主入口程序
  */
 function main() {
+  // 读取某个路径下的 dcm 文件
   var file = fs.readFileSync('files/test.dcm');
 
-  // 获取数据
+  // 通过 parser 获取数据
   var dataSet = parser.getDataSet(file);
   var tags = parser.getTags(dataSet);
 
-  // 信息获取
+  // 输出 dicom 文件数据
   dicomtag.logValidTagsInDict(tags);
 }
 

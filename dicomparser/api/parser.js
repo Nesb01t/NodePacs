@@ -1,5 +1,8 @@
 var dicomParser = require('dicom-parser');
 
+/**
+ * dicom 解析器
+ */
 module.exports = {
     /**
      * 获取数据集

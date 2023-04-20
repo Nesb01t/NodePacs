@@ -1,8 +1,7 @@
+/**
+ * dicom 字典
+ */
 module.exports = {
-
-    /**
-     * tag 字典
-     */
     dict: {
         "00080018": "Acquisition Date",
         "00080020": "Study Date",
